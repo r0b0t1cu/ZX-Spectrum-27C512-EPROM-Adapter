@@ -29,6 +29,7 @@ This build is meant for testing and experimenting; the adapter does not fit insi
 ✅ **Working / tested on real hardware**
 
 This is not an original design — it is a compiled version of existing community adapter concepts.
+Based on existing open ZX Spectrum ROM adapter ideas. Thanks to the ZX hardware community for inspiration.
 
 ## ROM Bank Info
 
